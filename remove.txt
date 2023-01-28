@@ -1,0 +1,4 @@
+device/asus
+vendor/asus
+kernel/asus
+hardware/lineage/compat
